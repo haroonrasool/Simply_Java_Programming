@@ -1,0 +1,12 @@
+cHTP3
+Carefully explains C and presents substantial introductions to C++ and Java.
+cppHTP4
+This Fourth Edition of the world's most widely used C++ textbook explains C++'s extraordinary capabilities.
+csharpFEP1
+This book is written for programmers with backgrounds in C++, Visual Basic, Java or other high-level languages, who want to learn C# through the intermediate level.
+jHTP4
+An introduction to the Java 2 Platform, Standard edition, using the author's LIVE-CODE training methods.
+jwsFEP1
+This book is written for Java programmers who want to learn Java Web Services through the intermediate level.
+vbnetFEP1
+This book is written for programmers with backgrounds in C++, Visual Basic 6, Java or other high-level languages, who want to learn Visual Basic .NET through the intermediate level.
